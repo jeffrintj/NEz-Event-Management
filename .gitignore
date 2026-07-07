@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+NEz_backend/media/
+*.sqlite3
+
+# Node
+nez_frontend/node_modules/
+nez_frontend/build/
+
+# Environment files
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
