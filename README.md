@@ -9,6 +9,14 @@ A full-stack event booking platform where users can discover, browse and book ti
 
 ---
 
+## 🎯 Project Purpose
+
+This project was built to practice and demonstrate full stack development skills including Python backend development, Django REST API development, MySQL database design, React.js component architecture, state management with React hooks, API integration using Axios, client-side caching, and end-to-end event booking business logic.
+
+> Built as part of my journey transitioning into software development.
+
+---
+
 ## 🚀 Features
 
 ### User Features
